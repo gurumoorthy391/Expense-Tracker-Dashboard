@@ -105,7 +105,19 @@ PORT=5000
 ### 8.login 
 <img width="1917" height="911" alt="Screenshot 2026-07-25 152339" src="https://github.com/user-attachments/assets/13fc0cb6-fafc-4d07-b920-f0c3625a6ad1" />
 
+### 9.dashboard
+<img width="1225" height="771" alt="Screenshot 2026-07-25 152813" src="https://github.com/user-attachments/assets/b26066aa-de1c-4f44-99da-9d061ba5ef5b" />
 
+
+## 🔮 Future Enhancements
+
+- Monthly Reports
+- Budget Planning
+- Data Export (PDF/Excel)
+- Email Notifications
+- Dark Mode
+
+---
 
 
 
