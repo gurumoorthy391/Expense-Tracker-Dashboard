@@ -99,6 +99,13 @@ PORT=5000
 ### 6. Run the Frontend
 <img width="559" height="278" alt="Image" src="https://github.com/user-attachments/assets/ff410421-9c61-4fc3-828b-a7ac4e8aa3a7" />
 
+### 7. Register
+<img width="1919" height="907" alt="Image" src="https://github.com/user-attachments/assets/eb92de75-0e66-473f-a4e4-51cc9a35890e" />
+
+### 8.login 
+<img width="1917" height="911" alt="Screenshot 2026-07-25 152339" src="https://github.com/user-attachments/assets/13fc0cb6-fafc-4d07-b920-f0c3625a6ad1" />
+
+
 
 
 
