@@ -1,15 +1,7 @@
-INTERN ID:
 
-NAME:GURUMOORTHY G
+# Expense Tracker Dashboard
 
-NO OF WEEKS:1
-
-PROJECT NAME:Expense Tracker Dashboard
-
-SCOPE:The Expense Tracker Dashboard is a full-stack web application that helps users securely manage and track their income and expenses. It provides an intuitive dashboard for monitoring financial transactions and supports future enhancements such as budgeting, analytics, and financial reports.
-# Expense Tracker
-
-A full-stack Expense Tracker web application built using the MERN stack.
+A full-stack MERN web application that enables users to securely manage income and expenses, monitor transactions, and track financial activities through an intuitive dashboard..
 
 ## 🛠️ Tech Stack
 
@@ -31,6 +23,15 @@ A full-stack Expense Tracker web application built using the MERN stack.
 ### Database
 - MongoDB Community Server
 - MongoDB Compass
+
+  ## ✨ Features
+
+- User Registration & Login
+- JWT Authentication
+- Add, Edit & Delete Transactions
+- Dashboard with Income & Expense Summary
+- Secure MongoDB Database
+- Responsive User Interface
 
 ```text
 expense-tracker/
@@ -118,6 +119,15 @@ PORT=5000
 - Dark Mode
 
 ---
+## 👨‍💻 Author
+
+**Name:** Gurumoorthy G
+
+**Intern ID:** <CITS7516>
+
+**Project:** Expense Tracker Dashboard
+
+**Duration:** 1 Week
 
 
 
