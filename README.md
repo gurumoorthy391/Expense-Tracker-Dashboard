@@ -32,52 +32,44 @@ A full-stack Expense Tracker web application built using the MERN stack.
 - MongoDB Community Server
 - MongoDB Compass
 
+```text
 expense-tracker/
-
 ├── backend/
-
 │   ├── config/
-
 │   │   └── db.js
-
 │   ├── controllers/
-│   │   ├── authController.js     
-│   │   └── expenseController.js  
+│   │   ├── authController.js
+│   │   └── expenseController.js
 │   ├── middleware/
-│   │   ├── authMiddleware.js      
-│   │   ├── errorMiddleware.js     # Centralized error handling
-│   │   └── validateMiddleware.js  # express-validator error formatter
+│   │   ├── authMiddleware.js
+│   │   ├── errorMiddleware.js
+│   │   └── validateMiddleware.js
 │   ├── models/
-│   │   ├── Expense.js             # Transaction schema
-│   │   └── User.js                # User schema (password hashing)
+│   │   ├── User.js
+│   │   └── Expense.js
 │   ├── routes/
-│   │   ├── authRoutes.js          # /api/auth/*
-│   │   └── expenseRoutes.js       # /api/expenses/*
-│   ├── .env                       # Environment variables (not committed)
-│   ├── server.js                  # App entry point
+│   │   ├── authRoutes.js
+│   │   └── expenseRoutes.js
+│   ├── config/
+│   ├── .env
+│   ├── server.js
 │   └── package.json
 │
-└── frontend/
-    ├── src/
-    │   ├── components/
-    │   │   ├── Dashboard.jsx          # Income/Expense/Balance cards
-    │   │   ├── ErrorBanner.jsx        # Reusable error message UI
-    │   │   ├── ExpenseForm.jsx        # Add transaction form
-    │   │   └── TransactionTable.jsx   # Transaction list table
-    │   ├── context/
-    │   │   └── AuthContext.jsx        # Global auth state (user, login, logout)
-    │   ├── pages/
-    │   │   ├── Login.jsx
-    │   │   └── Register.jsx
-    │   ├── utils/
-    │   │   └── validators.js          # Shared form validation helpers
-    │   ├── App.jsx
-    │   ├── main.jsx
-    │   └── index.css
-    ├── tailwind.config.js
-    ├── postcss.config.js
-    ├── index.html
-    └── package.json
+├── frontend/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── context/
+│   │   ├── pages/
+│   │   ├── utils/
+│   │   ├── App.jsx
+│   │   ├── main.jsx
+│   │   └── index.css
+│   ├── index.html
+│   └── package.json
+│
+└── README.md
+```
+
 
 
 ## ▶️ Run the Project
