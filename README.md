@@ -123,7 +123,7 @@ PORT=5000
 
 **Name:** Gurumoorthy G
 
-**Intern ID:** <CITS7516>
+**Intern ID:** CITS7516
 
 **Project:** Expense Tracker Dashboard
 
