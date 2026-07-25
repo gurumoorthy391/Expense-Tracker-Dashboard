@@ -109,6 +109,10 @@ PORT=5000
 ### 9.dashboard
 <img width="1225" height="771" alt="Screenshot 2026-07-25 152813" src="https://github.com/user-attachments/assets/b26066aa-de1c-4f44-99da-9d061ba5ef5b" />
 
+### 10. expense database
+<img width="1434" height="650" alt="Screenshot 2026-07-25 153445" src="https://github.com/user-attachments/assets/169c3f75-7927-4948-9b58-6d21da214012" />
+
+
 
 ## 🔮 Future Enhancements
 
