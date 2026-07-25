@@ -33,14 +33,18 @@ A full-stack Expense Tracker web application built using the MERN stack.
 - MongoDB Compass
 
 expense-tracker/
+
 ├── backend/
+
 │   ├── config/
-│   │   └── db.js                  # MongoDB connection
+
+│   │   └── db.js
+
 │   ├── controllers/
-│   │   ├── authController.js      # Register/Login/Me logic
-│   │   └── expenseController.js   # Transaction CRUD logic
+│   │   ├── authController.js     
+│   │   └── expenseController.js  
 │   ├── middleware/
-│   │   ├── authMiddleware.js      # JWT verification (protect routes)
+│   │   ├── authMiddleware.js      
 │   │   ├── errorMiddleware.js     # Centralized error handling
 │   │   └── validateMiddleware.js  # express-validator error formatter
 │   ├── models/
