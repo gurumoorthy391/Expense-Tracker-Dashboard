@@ -45,5 +45,6 @@ PORT=5000
 ## ▶️ Run the Project
 
 ### Backend
+<img width="546" height="297" alt="Image" src="https://github.com/user-attachments/assets/098db2cf-5056-4b09-948a-da624db5645c" />
 
 
