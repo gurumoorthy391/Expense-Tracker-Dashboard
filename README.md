@@ -1,3 +1,12 @@
+## 👨‍💻 Author
+
+**Name:** Gurumoorthy G
+
+**Intern ID:** CITS7516
+
+**Project:** Expense Tracker Dashboard
+
+**Duration:** 1 Week
 
 # Expense Tracker Dashboard
 
@@ -100,16 +109,16 @@ PORT=5000
 ### 6. Run the Frontend
 <img width="559" height="278" alt="Image" src="https://github.com/user-attachments/assets/ff410421-9c61-4fc3-828b-a7ac4e8aa3a7" />
 
-### 7. Register
+### 7. Register page
 <img width="1919" height="907" alt="Image" src="https://github.com/user-attachments/assets/eb92de75-0e66-473f-a4e4-51cc9a35890e" />
 
-### 8.login 
+### 8.login page
 <img width="1917" height="911" alt="Screenshot 2026-07-25 152339" src="https://github.com/user-attachments/assets/13fc0cb6-fafc-4d07-b920-f0c3625a6ad1" />
 
-### 9.dashboard
+### 9.dashboard page
 <img width="1225" height="771" alt="Screenshot 2026-07-25 152813" src="https://github.com/user-attachments/assets/b26066aa-de1c-4f44-99da-9d061ba5ef5b" />
 
-### 10. expense database
+### 10. MangoDB database
 <img width="1434" height="650" alt="Screenshot 2026-07-25 153445" src="https://github.com/user-attachments/assets/169c3f75-7927-4948-9b58-6d21da214012" />
 
 
@@ -123,17 +132,10 @@ PORT=5000
 - Dark Mode
 
 ---
-## 👨‍💻 Author
 
-**Name:** Gurumoorthy G
+## 📄 License
 
-**Intern ID:** CITS7516
-
-**Project:** Expense Tracker Dashboard
-
-**Duration:** 1 Week
-
-
+This project is developed for educational and internship purposes.
 
 
 
