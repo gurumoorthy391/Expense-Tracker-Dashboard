@@ -8,6 +8,7 @@
 
 **Duration:** 1 Week
 
+
 # Expense Tracker Dashboard
 
 A full-stack MERN web application that enables users to securely manage income and expenses, monitor transactions, and track financial activities through an intuitive dashboard..
