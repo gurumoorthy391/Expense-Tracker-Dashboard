@@ -96,11 +96,7 @@ expense-tracker/
 
 Create a `.env` file inside the `backend` folder.
 
-```env
-MONGO_URI=mongodb://127.0.0.1:27017/expense_tracker
-JWT_SECRET=your_secret_key
-PORT=5000
-```
+
 
 ---
 ### 5. Run the Backend
